@@ -1,8 +1,4 @@
----
-layout: default
----
-
-{% include 01-name.md %}
+#  Header
 
 <br>
 
@@ -11,4 +7,3 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-
